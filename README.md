@@ -7,6 +7,12 @@ For those who doesn't know **[Fast.ai](https://www.fast.ai/)**, It's an AI libra
 ## Prerequestes <br/>
 You first need to install `pytorch` framework using `pip install torch` and then you need to install Fast.ai library using `pip install fastai` and you are ready to go.
 
+## Imports <br/>
+
+You only need to import these two classes <br/>
+`from fastai.vision import *
+from fastai.metrics import *`
+
 
 ## Notebooks
 
