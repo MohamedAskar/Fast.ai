@@ -10,8 +10,8 @@ You first need to install `pytorch` framework using `pip install torch` and then
 ## Imports <br/>
 
 You only need to import these two classes <br/>
-`from fastai.vision import *
-from fastai.metrics import *`
+`from fastai.vision import *`<br/>
+`from fastai.metrics import *`
 
 
 ## Notebooks
